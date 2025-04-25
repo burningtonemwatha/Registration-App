@@ -13,7 +13,7 @@ A responsive and secure student registration system built by **burningtonemwatha
   - All fields are required
   - Valid email format
   - Password and Confirm Password must match
-  - Password must be at least 8 characters, contain an uppercase letter, and a number  
+  - Password must be at least 8 characters, contain an uppercase letter, and a number 
 - Passwords are securely hashed before storage  
 - Translucent styling with a clean UI  
 - Redirection to a confirmation dashboard after successful registration  
