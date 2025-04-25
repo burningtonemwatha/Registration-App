@@ -61,7 +61,7 @@ A responsive and secure student registration system built by **burningtonemwatha
    $password = "your_vpanel_password";
    $dbname = "if0_38786324_student_registration";
    ```
-4. Visit your live site:  
+4. Visit the live site:  
    [http://studentregistration.42web.io](http://studentregistration.42web.io)
 
 ---
